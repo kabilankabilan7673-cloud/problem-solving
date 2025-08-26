@@ -1,6 +1,6 @@
 var n=5;
-var m=5;
-for(var i=0;i<m;i++)
+// var m=5;
+for(var i=0;i<n;i++)
 {
     var line="";
     for(var j=0;j<n;j++)
