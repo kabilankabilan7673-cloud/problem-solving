@@ -1,4 +1,4 @@
-var n = 6;
+var n = 5;
 var m = 6;
 var top = 0;
 var arr = [];
