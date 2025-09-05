@@ -12,7 +12,7 @@ for(var i=0;i<arr.length-1;i++)
             }
         }
     } 
-    // console.log(arr);
+    console.log(arr);
     var start=0
     var end=arr.length-1
     var result=[]
