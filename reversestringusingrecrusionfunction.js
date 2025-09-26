@@ -21,11 +21,9 @@ function func(str) {
     //   continue;
     // }
   }
-  // console.log("------------>",start,"==>",start.length)
   if (i == str.length) {
     return start;
   }
-
   let rem = "";
   let j;
   for (j = i + 1; j < str.length; j++) {

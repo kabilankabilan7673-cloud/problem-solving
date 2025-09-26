@@ -1,5 +1,5 @@
 let arr = [1, 3, 4, 5, 6, 8];
-let t = 11;
+let t = 5;
 for (var i = 0; i < arr.length; i++) {
   var flag = true;
   if (arr[i] == t) {
